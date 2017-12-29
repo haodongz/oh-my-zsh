@@ -96,6 +96,12 @@ ZSH_THEME="agnoster" # (this is one of the fancy ones)
 
 _Note: many themes require installing the [Powerline Fonts](https://github.com/powerline/fonts) in order to render properly._
 
+#####  MAC    Fonts 
+
+mac garbled, in my submission code above there is a directory called Powerline_Fonts can be downloaded, the installation of fonts
+
+mac 会乱码,在我提交的代码上面有一个叫Powerline_Fonts的目录里面可以下载,安装字体
+
 Open up a new terminal window and your prompt should look something like this:
 
 ![Agnoster theme](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
