@@ -94,13 +94,10 @@ ZSH_THEME="agnoster" # (this is one of the fancy ones)
 # see https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#agnoster
 ```
 
-_Note: many themes require installing the [Powerline Fonts](https://github.com/powerline/fonts) in order to render properly._
-
 #####  MAC    Fonts 
 
-mac garbled, in my submission code above there is a directory called Powerline_Fonts can be downloaded, the installation of fonts
-
-mac 会乱码,在我提交的代码上面有一个叫Powerline_Fonts的目录里面可以下载,安装字体
+MAC will be garbled, in my submission code above there is a directory called Powerline_Fonts which can be downloaded, installed fonts, and then select the installed iTerm2 installed inside the font.
+MAC 下会乱码,在我提交的代码上面有一个叫Powerline_Fonts的目录里面可以下载,安装字体,然后在iTerm2设置里面选中安装的字体。
 
 Open up a new terminal window and your prompt should look something like this:
 
